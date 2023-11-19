@@ -27,10 +27,10 @@ const CONFIG = {
 	defaultLongitude: '-122.467540',
 
 	// Greetings
-	greetingMorning: 'おはようございます',
-	greetingAfternoon: 'こんにちは',
-	greetingEvening: 'こんばんは',
-	greetingNight: 'おやすみなさい',
+	greetingMorning: 'おはようございます,',
+	greetingAfternoon: 'こんにちは,',
+	greetingEvening: 'こんばんは,',
+	greetingNight: 'おやすみなさい,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
