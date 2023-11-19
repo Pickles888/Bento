@@ -15,7 +15,13 @@ const CONFIG = {
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
-
+	
+	// Weather
+	weatherKey: '182c56bc58f7d06e8283339362c09aaa', // Write here your API Key
+	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherUnit: 'F', // 'F', 'C'
+	language: 'en', // More languages in https://openweathermap.org/current#multi
+	
 	// Greetings
 	greetingMorning: 'おはようございます',
 	greetingAfternoon: 'こんにちは',
@@ -55,15 +61,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'KhanAcademy',
+			icon: 'function-square',
+			link: 'https://www.khanacademy.org',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Robotics',
+			icon: 'bot',
+			link: 'https://github.com/jwbizzle/MAXSwerve-Java',
 		},
 		{
 			id: '5',
@@ -125,46 +131,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'school',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Drewnet',
+					link: 'https://drewschool.myschoolapp.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Classroom',
+					link: 'https://classroom.google.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Docs',
+					link: 'https://docs.google.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Slides',
+					link: 'https://slides.google.com/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'terminal',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'AUR',
+					link: 'https://aur.archlinux.org/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Asahi Linux',
+					link: 'https://asahilinux.org/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'archiso',
+					link: 'https://github.com/archlinux/archiso',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Python Learning',
+					link: 'https://www.learnpython.org/',
 				},
 			],
 		},
