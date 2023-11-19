@@ -12,15 +12,15 @@ const CONFIG = {
 	
 	// General
 	name: 'Pickles',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'おはようございます',
+	greetingAfternoon: 'こんにちは',
+	greetingEvening: 'こんばんは',
+	greetingNight: 'おやすみなさい',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
