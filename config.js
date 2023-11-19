@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 	
 	// General
-	name: 'Pickles',
+	name: 'ピクルズ',
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
