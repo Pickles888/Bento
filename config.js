@@ -21,7 +21,11 @@ const CONFIG = {
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
-	
+
+	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+	defaultLatitude: '37.762340',
+	defaultLongitude: '-122.467540',
+
 	// Greetings
 	greetingMorning: 'おはようございます',
 	greetingAfternoon: 'こんにちは',
