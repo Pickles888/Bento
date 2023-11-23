@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'RosePineTheme',
+			icon: 'flower-2',
+			link: 'https://rosepinetheme.com',
 		},
 		{
 			id: '6',
