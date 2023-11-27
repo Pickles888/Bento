@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'RosePineTheme',
-			icon: 'flower-2',
-			link: 'https://rosepinetheme.com',
+			name: 'Drewnet',
+			icon: 'book-check',
+			link: 'https://drewschool.myschoolapp.com/',
 		},
 		{
 			id: '6',
@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Drewnet',
-					link: 'https://drewschool.myschoolapp.com',
+					name: 'Python Learning',
+					link: 'https://www.learnpython.org/',
 				},
 				{
 					name: 'Classroom',
@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://github.com/archlinux/archiso',
 				},
 				{
-					name: 'Python Learning',
-					link: 'https://www.learnpython.org/',
+					name: 'Rosé Pine Theme',
+					link: 'https://rosepinetheme.com/',
 				},
 			],
 		},
