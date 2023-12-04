@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Drewnet',
 			icon: 'book-check',
-			link: 'https://drewschool.myschoolapp.com/',
+			link: 'https://drewschool.myschoolapp.com/app/student#studentmyday/assignment-center',
 		},
 		{
 			id: '6',
