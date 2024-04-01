@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Python Learning',
-					link: 'https://www.learnpython.org/',
+					name: 'C++ Learning',
+					link: 'https://www.learncpp.com/',
 				},
 				{
 					name: 'Classroom',
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'AUR',
-					link: 'https://aur.archlinux.org/',
+					name: 'Nixos Wiki',
+					link: 'https://nixos.wiki/',
+				},
+				{
+					name: 'NixOS Search',
+					link: 'https://search.nixos.org/packages',
 				},
 				{
 					name: 'Asahi Linux',
 					link: 'https://asahilinux.org/',
 				},
 				{
-					name: 'archiso',
-					link: 'https://github.com/archlinux/archiso',
-				},
-				{
-					name: 'Rosé Pine Theme',
-					link: 'https://rosepinetheme.com/',
+					name: 'Catppuccin',
+					link: 'https://catppuccin.com/palette',
 				},
 			],
 		},
