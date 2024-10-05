@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 	
 	// General
-	name: 'ピクルズ',
+	name: 'pickles.bin',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -27,10 +27,10 @@ const CONFIG = {
 	defaultLongitude: '-122.420160',
 
 	// Greetings
-	greetingMorning: 'おはようございます,',
-	greetingAfternoon: 'こんにちは,',
-	greetingEvening: 'こんばんは,',
-	greetingNight: 'おやすみなさい,',
+	greetingMorning: '☕ coffee time,',
+	greetingAfternoon: '🦀 λ GET BACK TO WORK,',
+	greetingEvening: '"im tired" -',
+	greetingNight: '"im so tired" - ',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
